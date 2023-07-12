@@ -1,7 +1,8 @@
 ### Olá sou o Matus Moura, estudante de programação!
 
   -      PRETENDO ME TORNAR DESENVOLVEDOR FULLSTACK
-  -      PROGRAMO PRINCIPALMENTE COM JAVA E SPRING, MAS ESTOU ME DANDO MUITO BEM COM FRONT
+  -      BACKEND: JAVA - SPRINGBOOT
+  -      FRONTEND: HTML - CSS - JS - REACT
   -      FUTURO ENGENHEIRO DE SOFTWARE
 <div align="center">
   <a href="https://github.com/MatusMoura2">
