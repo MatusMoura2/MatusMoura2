@@ -3,6 +3,7 @@
   -      PRETENDO ME TORNAR DESENVOLVEDOR FULLSTACK
   -      BACKEND: JAVA - SPRINGBOOT
   -      FRONTEND: HTML - CSS - JS - REACT
+  -      MOBILE: KOTLIN - JAVA
   -      FUTURO ENGENHEIRO DE SOFTWARE
 <div align="center">
   <a href="https://github.com/MatusMoura2">
