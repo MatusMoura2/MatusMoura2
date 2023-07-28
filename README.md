@@ -34,7 +34,6 @@
     
   <div>
 
- ![snake gif](https://github.com/MatusMoura2/MatusMoura2/blob/output/github-contribution-grid-snake.svg)
     
     
     
