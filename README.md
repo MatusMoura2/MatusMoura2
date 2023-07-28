@@ -33,8 +33,8 @@
     <a href="https://wa.me/5561992781976" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     
   <div>
- 
-    
+
+  ![snake animation](https://github.com/<MatusMoura2>/<MatusMoura2>/blob/output/github-contribution-grid-snake2.svg)
     
     
     
