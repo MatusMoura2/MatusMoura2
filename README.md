@@ -34,6 +34,5 @@
     
   <div>
 
- ![github-user-contribution](https://user-images.githubusercontent.com/78994881/228936644-a2478956-b0df-4919-8035-6f1776447482.svg)
     
     
