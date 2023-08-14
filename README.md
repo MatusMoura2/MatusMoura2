@@ -34,6 +34,20 @@
     
   <div>
 
-    
+    <!--- S N A K E   E A T I N G   M Y   C O N T R I B U T I O N --->
+
+<div align="center">
+
+
+ <h1>
+  <img src="https://user-images.githubusercontent.com/78994881/228853438-e271d4bd-6cd5-4c3d-bd19-7e2f2b13c145.gif"  width="120px" > Snake eating my Contribution  
+ </h1>
+
+ ![github-user-contribution](https://user-images.githubusercontent.com/78994881/228936644-a2478956-b0df-4919-8035-6f1776447482.svg)
+
+ ![github-user-contribution (1)](https://github.com/Platane/snk/assets/78994881/ca7ba989-06dc-4af5-944e-2344296b166e) 
+ </div>
+
+<hr>
     
     
