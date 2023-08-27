@@ -4,7 +4,7 @@
   -      BACKEND: JAVA - SPRINGBOOT
   -      FRONTEND: HTML - CSS - JS - REACT
   -      MOBILE: KOTLIN - JAVA
-  -      BACHARELADO EM ENGENHARIA DE SOFTWARE 3/7
+  -      BACHARELADO EM ENGENHARIA DE SOFTWARE 3° de 7°
 <div align="center">
   <a href="https://github.com/MatusMoura2">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
