@@ -5,7 +5,7 @@
   -      FRONTEND: HTML - CSS - JS - REACT - ANGULAR
   -      MOBILE: KOTLIN - JAVA
   -      GAME DEV
-  -      BACHARELADO EM ENGENHARIA DE SOFTWARE 4 / 7
+  -      ENGENHARIA DE SOFTWARE 4 / 7
      
 <div align="center">
   <a href="https://github.com/MatusMoura2">
