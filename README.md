@@ -19,9 +19,12 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
- 
-  
-   
+
+</div>
+
+</div>
+## Badges
+![](https://github-profile-trophy.vercel.app/?username=MatusMoura2&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 </div>
   
   ##
