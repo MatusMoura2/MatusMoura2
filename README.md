@@ -1,6 +1,6 @@
 ### Olá sou o Matus Moura, estudante de programação!
 
-  -      DESENVOLVEDOR FULLSTACK JAVA
+  -      DESENVOLVEDOR JAVA FULLSTACK 
   -      BACKEND: JAVA - SPRINGBOOT
   -      LEGADO: JSP - JSF - EJB
   -      FRONTEND: HTML - CSS - JS - REACT - ANGULAR
