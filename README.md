@@ -1,4 +1,4 @@
-### Olá sou o Matus Moura, estudante de programação!
+### Olá sou o Matus Moura!
 
   -      DESENVOLVEDOR JAVA FULLSTACK 
   -      BACKEND: JAVA - SPRINGBOOT
