@@ -8,7 +8,7 @@
   -      GAME DEV
   -      ENGENHARIA DE SOFTWARE 5 / 7
      
-<div align="center">
+<div position: relative>
   <a href="https://github.com/MatusMoura2">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatusMoura2&layout=compact&langs_count=7&theme=dracula"/>
