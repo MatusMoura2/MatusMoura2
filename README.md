@@ -7,7 +7,7 @@
   -      MOBILE: KOTLIN - JAVA
   -      GAME DEV
   -      ENGENHARIA DE SOFTWARE 5 / 7
-     
+ <div style="display: inline_block"><br>
 <div position: relative>
   <a href="https://github.com/MatusMoura2">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,6 +33,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
 </div>
+</div>  
 
 ## Badges
 ![](https://github-profile-trophy.vercel.app/?username=MatusMoura2&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
