@@ -1,7 +1,7 @@
 ### Olá sou o Matus Moura!
 
   -      DESENVOLVEDOR JAVA FULLSTACK 
-  -      BACKEND: JAVA - SPRINGBOOT
+  -      BACKEND: JAVA - SPRINGBOOT - JAKARTAEE - QUARKUS 
   -      LEGADO: JSP - JSF - EJB
   -      FRONTEND: HTML - CSS - JS - TS - REACT - ANGULAR
   -      MOBILE: KOTLIN - JAVA
