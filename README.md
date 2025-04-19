@@ -6,7 +6,7 @@
   -      FRONTEND: HTML - CSS - JS - TS - REACT - ANGULAR
   -      MOBILE: KOTLIN - JAVA
   -      GAME DEV
-  -      ENGENHARIA DE SOFTWARE 6 / 7
+  -      ENGENHARIA DE SOFTWARE 7 / 7
  <div align-items: center>
   <a href="https://github.com/MatusMoura2">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
