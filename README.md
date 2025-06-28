@@ -49,7 +49,4 @@
   <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/MatusMoura2/MatusMoura2/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <sub>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank"></a></sub>
-</div>
     
