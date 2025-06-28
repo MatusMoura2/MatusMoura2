@@ -41,5 +41,15 @@
     
   <div>
 
-    
+    ## 🟡 Pac‑Man devorando meus commits!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatusMoura2/MatusMoura2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatusMoura2/MatusMoura2/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/MatusMoura2/MatusMoura2/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <sub>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">abozanona/pacman-contribution-graph</a> 🍒</sub>
+</div>
     
