@@ -50,6 +50,6 @@
 </picture>
 
 <div align="center">
-  <sub>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank">abozanona/pacman-contribution-graph</a> 🍒</sub>
+  <sub>Gráfico gerado com <a href="https://github.com/abozanona/pacman-contribution-graph" target="_blank"></a></sub>
 </div>
     
