@@ -41,7 +41,7 @@
     
   <div>
 
-  <H3>🟡 Pac‑Man devorando meus commits!</h3>
+  <H6>🟡 Pac‑Man devorando meus commits!</h6>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatusMoura2/MatusMoura2/output/pacman-contribution-graph-dark.svg">
