@@ -25,13 +25,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
 </div> 
-
-## Badges
-![](https://github-profile-trophy.vercel.app/?username=MatusMoura2&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=MatusMoura2&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+<br>
  <div>
   <a href="https://www.instagram.com/matusbarretomoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/furiosnerd_gamestudio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
