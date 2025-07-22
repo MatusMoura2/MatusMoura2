@@ -35,7 +35,7 @@
     
   <div>
    <br>
-    <h6>fã de citações em latim </h6>
+    <h6>Sou fã de citações em latim </h6>
    <img src="https://github.com/MatusMoura2/MatusMoura2/blob/main/frase.png" alt="per aspera ad astra" width="250"/> <br> <img src="https://github.com/MatusMoura2/MatusMoura2/blob/main/frase2.png" alt="" width="180"/>
 
   <H6>🟡 Pac‑Man devorando meus commits!</h6>
