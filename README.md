@@ -12,19 +12,21 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatusMoura2&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-<p align="center">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"> 
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-plain.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
-</p>
+  <table>
+    <tr>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-plain.svg"></td>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg"></td>
+    </tr>
+  </table>
  <br>
  <div>
   <a href="https://www.instagram.com/matusbarretomoura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
