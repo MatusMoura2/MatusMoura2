@@ -7,6 +7,7 @@
   -      MOBILE: KOTLIN - JAVA
   -      GAME DEV
   -      BACHAREL EM ENGENHARIA DE SOFTWARE
+  -      MBA EM ARQUTETRA DE SOFTWARE E SOLUÇÔES COM IA
  <div align-items: center>
   <a href="https://github.com/MatusMoura2">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatusMoura2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
